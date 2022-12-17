@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Scotty Wong</h1>
-- 📫 How to reach me **https://www.linkedin.com/in/wongscott/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
